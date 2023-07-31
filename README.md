@@ -60,4 +60,4 @@ Other contributions to the DailyNow App are welcome. If you encounter any bugs o
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
-For more information, please refer to the LICENSE file.
+For more information, please refer to the [LICENSE](https://github.com/souocare/dailynow-daily-information-app/blob/main/LICENSE) file.
